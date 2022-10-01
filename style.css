@@ -372,9 +372,13 @@ aside {
     width: 140px;
     height: 140px;
   }
+  aside {
+    width: 100%;
+  }
 }
 @media (min-width: 641px) {
   .mobile-menu {
     display: none;
   }
+
 }
